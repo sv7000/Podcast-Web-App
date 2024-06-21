@@ -19,27 +19,27 @@ export const sidebarLinks = [
 export const voiceDetails = [
   {
     id: 1,
-    name: "alloy",
+    name: "Sumit",
   },
   {
     id: 2,
-    name: "echo",
+    name: "Peter",
   },
   {
     id: 3,
-    name: "fable",
+    name: "Raj",
   },
   {
     id: 4,
-    name: "onyx",
+    name: "Uday",
   },
   {
     id: 5,
-    name: "nova",
+    name: "Rishabh",
   },
   {
     id: 6,
-    name: "shimmer",
+    name: "Abhinav",
   },
 ];
 
